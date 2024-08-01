@@ -14,6 +14,7 @@ icon: MiAWSCloudOrange
 - [[Global AWS Services]]
 - [[Global Infrastructure]]
 - [[High Availability]]
+- [[Internet Infrastructure]]
 - [[Loose-Coupling]]
 - [[Shared Responsibility Model]]
 - [[Startup Loft]]

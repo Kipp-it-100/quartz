@@ -1,7 +1,7 @@
 ---
 icon: AiKinesisFirehose
 ---
-# Overview
+# ChatGPT Overview
 
 AWS Kinesis Data Firehose is a fully managed service that automatically scales to handle streaming data, facilitating the capture, transformation, and loading of data streams into AWS data stores for near real-time analytics. Kinesis Data Firehose is part of the broader Amazon Kinesis streaming data platform, which also includes Kinesis Data Streams and Kinesis Data Analytics.
 
@@ -50,3 +50,33 @@ AWS Kinesis Data Firehose is a fully managed service that automatically scales t
     
 
 AWS Kinesis Data Firehose is an essential service for businesses looking to efficiently and effortlessly handle real-time data streaming into AWS, enabling rapid analytics and insights from diverse data sources across their organization.
+
+# Notes
+- Takes data from **producers**
+	- Applications
+	- Clients
+	- SDK
+	- Kinesis Agent
+	- Kenisis Data Stream
+	- Cloudwatch (logs and events)
+	- AWS IoT
+- (optionally) transform data
+	- using a lambda function
+- and batch writes into **destinations**
+	- AWS Destinations KNOW THESE BY HEART!!!
+		- S3
+		- Redshift (copy **through s3**)
+		- OpenSearch
+	- 3rd party partner destinations
+		- Datadog
+		- Splunk
+		- New Relicf
+		- mongoDB
+	- Custom destinations
+		- HTTP Endpoint
+- Pay for data going through Firehose
+- Near **real time**
+	- Buffer interval: 0 seconds (no buffering) to 900 seconds
+	- Buffer size: minimum 1MB
+- Supports many data formats, conversions, transformation, compression
+

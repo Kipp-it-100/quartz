@@ -68,9 +68,6 @@ Amazon S3 (Simple Storage Service) is a scalable object storage service provided
 ### S3 Glacier Deep Archive
 ### S3 One Zone - IA
 ## S3 Cross Region Replication 
-
-## S3 Transfer Acceleration
-Amazon S3 Transfer Acceleration can speed up content transfers to and from Amazon S3 by as much as 50-500% for long-distance transfer of larger objects. Customers who have either web or mobile applications with widespread users or applications hosted far away from their S3 bucket can experience long and variable upload and download speeds over the Internet. S3 Transfer Acceleration (S3TA) reduces the variability in Internet routing, congestion and speeds that can affect transfers, and logically shortens the distance to S3 for remote applications. S3TA improves transfer performance by routing traffic through Amazon CloudFront’s globally distributed Edge Locations and over AWS backbone networks, and by using network protocol optimizations. You can turn on S3TA with a few clicks in the S3 console, and test its benefits from your location with [a speed comparison tool](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html). With S3TA, you pay only for transfers that are accelerated.
 ## Pricing
 
 
@@ -188,4 +185,176 @@ Amazon S3 supports a waterfall model for transitioning between storage classes, 
 ### [Livecycle Transition](https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html)
 ### [Data Retrievals](https://docs.aws.amazon.com/AmazonS3/latest/userguide/restoring-objects.html)
 
+## Cross-Origin Resource Sharing (CORS)
+- Origin = scheme (protocol) + host (domain) + port
+- Browser-based mechanism to allow reqs to other origins while visiting main origin
+- Reqs wont be fulfilled unless the other origin allows for the requests, using **CORS Headers**
+	- example: **Access-Control-Allow-Origin** 
+![[SAA Course Slides.pdf#page=311]]
 
+### How it applies to S3
+- If a client makes a cross-origin request on our bucket, correct CORS headers need to be enabled
+## Requester Pays
+- Bucket Owner still pays storage costs **BUT** requester pays for cost of data request and data download from the bucket
+- The requester cannot be anonymous and must be aws-authenticated
+
+## Performance
+### Baseline performance
+- s3 auto-scales to high req rates
+	- latency: 100-200 ms
+- 3500 reqs/sec/prefix for request types:
+	- PUT
+	- COPY
+	- POST
+	- DELETE
+- 5500 reqs/sec/prefix for request types:
+- There are no limits to the number of prefixes in a bucket
+	- this means you can spread demand across multiple prefixes to achieve super-high req rates, even if they are being made to the same parent bucket
+
+### Optimizing Performance
+#### Multi-Part upload
+- Parallelizes uploads
+- recommend for files larger than 100mb
+- **must use** for files larger than 5GB
+
+#### S3 Transfer Acceleration
+- Tranfer to edge location first then forwards data to s3 bucket
+- combitible with multi-part
+
+#### S3 Byte-Range Fetches
+- Parallizes downloads by requesting specific byte ranges
+- Better resilience in case of failures
+- also use to download specific parts of a file
+
+## S3 Select & Glacier Select
+- retrieve less data using SQL by performing server-side filtering
+- Filter by rows and columns (simple sql statements)
+- Less network transfer, less cpu cost client-side
+
+## S3 Batch Operations
+- bulk operations on existing s3 objects with single request
+	- mod metadata and properties
+	- copy between s3 buckets
+	- encrypt un-encrypted objects
+	- Modify ACL's, tags
+	- Restore from s3 glacier
+	- invoke lambda function to perform custom action on each object
+- Job consists of 
+	- List of objects
+	- Action to perform
+	- optional parameters
+- S3 batch operations does the following
+	- manages retries
+	- tracks progress
+	- sends completion notifications
+	- generates reports
+- Use s3 inventory to get object list and use s3 Select to filter your objects
+
+## S3 Storage Lens
+- Understand, 
+
+## Object Encryption 
+- Use one of 4 available methods
+### Server side methods (3)
+#### Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3) - Enabled by Default
+- Encrypts S3 objects using keys handled, managed, and owned by AWS
+- Encryption type: AES-256
+- Must set header "x-amz-server-side-encryption": "AES256"
+- Enabled by default for new buckets & new objects
+
+#### Server-Side Encryption with KMS Keys stored in AWS KMS (SSE-KMS)
+- Leverage AWS Key Management Service (AWS KMS) to manage- encryption keys
+- Advantages
+	- user control 
+	- audit key usage in CloudTrail
+- Must set header "x-amz-server-side-encryption": "aws:kms"
+##### Limitations
+![[SAA Course Slides.pdf#page=304]]
+
+#### Server-Side Encryption with Customer-Provided Keys (SSE-C)
+- When you want to manage your own encryption keys
+- s3 does **NOT** store the key you provide
+- Must use **HTTPS**
+- Must pass the key, provided in HTTP headers, for every request being made
+### Client Side 
+- Use client libraries, such as **Amazon s3 client encryption library**
+- Client must encrypt/decrypt data themselves when sending/receiving s3 data
+
+## Encryption in transit (SSL/TLS)
+- S3 exposes two endpoints
+	- HTTP endpoint
+		- non encrypted
+	- HTTPS
+		- encryption in flight
+### Forcing  encryption in transit (aws:SecureTransport)
+![[SAA Course Slides.pdf#page=308]]
+
+## Bucket policies
+- Always evaluated **before** you default encryption settings 
+
+## MFA Delete
+- Required to: 
+	- PErmanently delete an object version
+	- Suspend versioning
+- **Not** required to:
+	- Enable versioning
+	- List deleted versions
+- **versioning must be enabled to use MFA delete**
+- Only root can enable/disable
+
+## S3 Access Logs
+- For audit purpose, you may want to log all access to buckets
+- Any req made to s3, from any account, authorized or denied, will be logged into **another s3 bucket**
+	- The target butcket must be in the same region
+- Log format can be examined at: https://docs.aws.amazon.com/AmazonS3/latest/dev/LogFormat.html
+- Be wary of creating a **logging loop** by configuring the targetbucket  to be the same as the monitored one.
+
+## Pre-Signed URLs
+- Generate pre-signed URLs using:
+	- S3 Console
+	- AWS CLI
+	- AWS SDK
+- Expiration
+	- s3 console
+		- 1-720 mins (720 mins = 12 hours)
+	- AWS CLI - 
+		- use -*expires-in* parameter in seconds
+		- default = 3600 secs
+		- max = 604800 secs ~168 hours
+- Users given the presigned URL inherit permisions of the user that generated it for GET/PUT reqs
+- Examples
+	- Allow only logged-in users to download a premium video from your S3 bucket
+	- Allow an ever-changing list of users to download files by generating URLs dynamically
+	- Allow temporarily a user to upload a file to a precise location in your S3 bucket
+
+## S3 Lock
+
+### Glacier Vault Lock
+- Adopt a WORM (write once read many) model
+- Create a vault lock policy
+- Lock the policy for future edits
+- Helpful for compliance and data retention
+
+### Object Lock
+- Versioning needs to be enabled
+- Adopt a WORM model
+- block an object version deletion for a specified amount of time
+#### Retention Modes
+##### Compliance retention mode
+- object versions cant be overwritten or deleted by **any user**, including root
+- retention mode cannot be changed and retention periods cant be shortened 
+
+##### Governance retention mode
+- **most** users cant overwrite or delete an object version or alter its lock settings
+- some uses have special perms to change the retention or delete the object
+
+##### Legal Hold 
+- protect the object indefinitely, independent from retention period
+- can be freely placed and removed using the *s3:PutObjectLegalHold* IAM permission
+
+## Access Points
+![[SAA Course Slides.pdf#page=319]]
+![[SAA Course Slides.pdf#page=320]]
+
+## Object Lambda
+- Left off - Video 14015

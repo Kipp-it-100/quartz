@@ -1,7 +1,7 @@
 ---
 icon: AiKinesisDataStreams
 ---
-# Overview
+# ChatGPT Overview
 
 AWS Kinesis Data Streams is a scalable and durable real-time data streaming service provided by Amazon Web Services. It enables developers to continuously capture gigabytes of data per second from hundreds of thousands of sources such as website clickstreams, database event streams, financial transactions, social media feeds, IT logs, and location-tracking events. This service is designed to facilitate real-time analytics and enable quick responses to information as it is received.
 
@@ -48,3 +48,24 @@ AWS Kinesis Data Streams is a scalable and durable real-time data streaming serv
     
 
 AWS Kinesis Data Streams is a powerful tool for handling large-scale, real-time data ingestion and processing, allowing businesses to react quickly to new information and maintain a competitive advantage in data-driven decision-making.
+
+# Notes
+- Shards
+	- Provisioned
+	- Can scale # of shards
+- Retention
+	- 1-365 days
+## Capacity Modes
+
+### Provisioned Mode
+- You choose # of shards provisioned
+	- Scale manually or using API
+- Each shard gets 1 MB/s in (or 1000 records per sec)
+- Each shard gets 2 MB/s out (classic or enhanced fan-out consumer)
+- You pay per shard provisioned per hour
+
+### On-Demand Mode
+- No need to provision or manage capacity 
+- Default capacity provisioned (4MB/s in or 4000 records per sec)
+- Scales automatically based on observed throughput peak during the last 30 days
+- Pay per stream per hour & data in/out per GB

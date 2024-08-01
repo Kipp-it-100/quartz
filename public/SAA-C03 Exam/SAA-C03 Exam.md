@@ -44,7 +44,7 @@ icon: MiSaaBadge
 	- while it does not when the replication is occurring within the same region
 		- This is the case regardless of AZs, even cross-AZ. As long as they are within the same region, there are no charges for the transfer
 ### [[Virtual Private Cloud|VPC]]
-- Shared services VPC
+- Shared services 
 ### [[Lambda]]
 - lamda authorizer?
 ### [[Cognito]]
@@ -82,31 +82,19 @@ icon: MiSaaBadge
 - **Udemy SAA course**
 	- **[[Course Code]]**
 		- **api-gateway**
-
 		- **cli**
-
 		- **cloudformation**
-
 		- **ebs**
-
 		- **ec2-fundamentals**
-
 		- **efs**
-
 		- **kinesis**
-
 		- **kms**
-
 		- **route53**
-
 		- **s3**
 
 		- **s3-advanced**
-
 		- **sqs**
-
 		- **ssm**
-
 
 %% End Waypoint %%
 

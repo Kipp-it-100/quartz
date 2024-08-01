@@ -38,6 +38,6 @@ This layer deals with the physical connection between devices and the transmissi
 #flashcards/osi
 
 which layer is the closest to the user(Number and name)? :: Layer 7, the Application layer.
-<!--SR:!2024-06-15,7,250-->
+<!--SR:!2024-07-11,24,270-->
 
 which layer occurs at 

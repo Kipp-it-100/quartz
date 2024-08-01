@@ -57,7 +57,7 @@ Up to 15 Aurora replicas can be distributed across the AZs that a DB cluster spa
 #### Exam Alerts
 #flashcards/saa 
 - If you see a sentence pertaining to sub-second cross-region replication for your database, it is a hint to use... :: Global [[Aurora]]
-<!--SR:!2024-06-09,1,170-->
+<!--SR:!2024-06-18,1,150-->
 
 #saa_exam_alerts 
 #### Keywords
