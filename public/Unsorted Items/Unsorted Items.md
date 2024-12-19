@@ -3,6 +3,7 @@ icon: MiWhiteQuestionMark
 ---
 # [[Unsorted Items]]
 %% Begin Waypoint %%
+- [[2 U]]
 - [[Aaron Swartz]]
 - [[Actuator]]
 - [[Ada Lovelace]]
@@ -137,7 +138,9 @@ icon: MiWhiteQuestionMark
 - [[Universal Serial Bus]]
 - [[Unix-like operating system]]
 - [[Untitled 1]]
-- [[public/Unsorted Items/Untitled]]
+- [[Untitled 2]]
+- [[Untitled]]
+- [[Visual Studio vs VS Code]]
 - [[Vladimir Lenin]]
 - [[Voice over Internet Protocol]]
 - [[Warsaw Pact]]

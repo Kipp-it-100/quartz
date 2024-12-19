@@ -26,9 +26,6 @@
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/AppConfig</loc>
     <lastmod>2024-05-17T17:37:24.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/AppFlow</loc>
-    <lastmod>2024-06-08T05:08:18.483Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/AppStream</loc>
     <lastmod>2024-05-17T17:37:24.000Z</lastmod>
   </url><url>
@@ -63,7 +60,7 @@
     <lastmod>2024-05-17T17:37:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Aurora</loc>
-    <lastmod>2024-06-08T23:17:44.437Z</lastmod>
+    <lastmod>2024-06-17T11:24:20.226Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Auto-Scaling</loc>
     <lastmod>2024-06-08T22:17:23.111Z</lastmod>
@@ -525,10 +522,10 @@
     <lastmod>2024-05-17T17:37:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Kinesis-Data-Streams</loc>
-    <lastmod>2024-05-17T17:37:24.000Z</lastmod>
+    <lastmod>2024-07-13T09:15:59.851Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Kinesis-Firehose</loc>
-    <lastmod>2024-05-17T17:37:24.000Z</lastmod>
+    <lastmod>2024-07-13T11:41:30.934Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Kinesis-Video-Streams</loc>
     <lastmod>2024-06-08T22:24:55.081Z</lastmod>
@@ -816,7 +813,7 @@
     <lastmod>2024-06-08T22:54:21.575Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Simple-Storage-Service</loc>
-    <lastmod>2024-06-09T21:10:23.316Z</lastmod>
+    <lastmod>2024-07-19T02:54:56.049Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Single-Sign-On</loc>
     <lastmod>2024-05-17T17:37:24.000Z</lastmod>
@@ -957,10 +954,10 @@
     <lastmod>2024-05-17T17:37:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Serverless-Application-Model</loc>
-    <lastmod>2024-06-05T00:05:47.930Z</lastmod>
+    <lastmod>2024-07-13T15:08:33.539Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/Amazon-Web-Services</loc>
-    <lastmod>2024-06-05T00:05:48.220Z</lastmod>
+    <lastmod>2024-07-13T09:08:09.684Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/Global-AWS-Services</loc>
     <lastmod>2024-06-05T00:05:47.930Z</lastmod>
@@ -972,7 +969,7 @@
     <lastmod>2024-06-05T00:05:47.934Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/Internet-Infrastructure</loc>
-    <lastmod>2024-07-07T04:57:59.537Z</lastmod>
+    <lastmod>2024-07-09T02:43:23.484Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/Loose-Coupling</loc>
     <lastmod>2024-06-05T00:05:47.950Z</lastmod>
@@ -1284,7 +1281,7 @@
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Open-Systems-Interconnection-Model</loc>
-    <lastmod>2024-06-08T23:10:20.996Z</lastmod>
+    <lastmod>2024-06-17T11:15:33.305Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Operating-Systems/Android</loc>
     <lastmod>2024-05-22T23:48:37.105Z</lastmod>
@@ -1299,7 +1296,7 @@
     <lastmod>2024-04-12T08:06:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Operating-Systems/Linux/Linux-Flashcards</loc>
-    <lastmod>2024-05-26T21:32:34.315Z</lastmod>
+    <lastmod>2024-06-17T11:15:28.302Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Operating-Systems/Linux/Linux</loc>
     <lastmod>2024-05-24T04:17:14.707Z</lastmod>
@@ -1431,7 +1428,7 @@
     <lastmod>2024-05-07T02:28:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Music/Music-Ideas</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+    <lastmod>2024-05-15T03:54:46.344Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Music/Music</loc>
     <lastmod>2024-05-23T23:49:28.848Z</lastmod>
@@ -1473,10 +1470,10 @@
     <lastmod>2024-06-08T23:22:11.628Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-Flashcards</loc>
-    <lastmod>2024-06-09T22:02:14.506Z</lastmod>
+    <lastmod>2024-07-19T01:28:57.832Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-C03-Exam</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+    <lastmod>2024-07-17T02:33:19.782Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/SAA-C03-Exam/Udemy-SAA-course/Course-Code/Course-Code</loc>
     <lastmod>2024-06-04T23:53:23.341Z</lastmod>
@@ -1485,13 +1482,16 @@
     <lastmod>2024-06-05T01:06:43.066Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tutorials/How-to-Run-a-Lightweight-Command-Line-Speed-Test-on-Windows,-Mac-and-Linux-1</loc>
-    <lastmod>2024-07-25T17:50:40.952Z</lastmod>
+    <lastmod>2024-07-25T22:45:48.177Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tutorials/Tutorials</loc>
-    <lastmod>2024-06-16T01:00:19.099Z</lastmod>
+    <lastmod>2024-08-01T20:49:58.844Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tutorials/Ubuntu-tyle-terminal-coloration-in-MacOS</loc>
     <lastmod>2024-06-05T01:02:38.549Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/2-U</loc>
+    <lastmod>2024-12-10T01:33:07.844Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/Aaron-Swartz</loc>
     <lastmod>2024-06-05T00:05:47.986Z</lastmod>
@@ -1503,7 +1503,7 @@
     <lastmod>2024-06-05T00:05:48.003Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/Adobe-Premiere</loc>
-    <lastmod>2024-07-13T13:53:20.243Z</lastmod>
+    <lastmod>2024-07-13T13:56:41.914Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/Alan-Turing</loc>
     <lastmod>2024-06-05T00:05:48.002Z</lastmod>
@@ -1581,7 +1581,7 @@
     <lastmod>2024-06-08T05:01:31.979Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/EBS-backed-cloud-DAW-Library</loc>
-    <lastmod>2024-07-23T01:22:22.242Z</lastmod>
+    <lastmod>2024-07-25T17:31:35.263Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/ECDSA</loc>
     <lastmod>2024-06-09T03:09:12.953Z</lastmod>
@@ -1863,13 +1863,19 @@
     <lastmod>2024-05-17T00:34:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/Unsorted-Items</loc>
-    <lastmod>2024-05-17T10:00:15.346Z</lastmod>
+    <lastmod>2024-07-25T22:49:49.934Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/Untitled-1</loc>
     <lastmod>2024-06-12T03:25:30.664Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Untitled-2</loc>
+    <lastmod>2024-12-18T06:07:31.163Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/Untitled</loc>
-    <lastmod>2024-06-16T22:06:08.088Z</lastmod>
+    <lastmod>2024-06-16T22:06:08.400Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Visual-Studio-vs-VS-Code</loc>
+    <lastmod>2024-12-14T04:33:04.430Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Unsorted-Items/Vladimir-Lenin</loc>
     <lastmod>2024-05-25T05:56:04.688Z</lastmod>
@@ -1929,7 +1935,7 @@
     <lastmod>2024-05-09T04:09:56.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/flashcards/flashcards</loc>
-    <lastmod>2024-05-18T08:16:10.000Z</lastmod>
+    <lastmod>2024-06-18T02:11:06.628Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
     <lastmod>2024-06-08T23:59:46.477Z</lastmod>
@@ -1947,7 +1953,7 @@
     <lastmod>2024-06-04T23:53:23.326Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/vault_resources/attachments/Drawing-2024-06-17-20.39.39.excalidraw</loc>
-    <lastmod>2024-06-18T01:39:39.984Z</lastmod>
+    <lastmod>2024-06-18T01:39:40.328Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/vault_resources/excalidraw/Drawing-2024-05-23-23.27.34.excalidraw</loc>
     <lastmod>2024-05-24T04:27:34.993Z</lastmod>
@@ -1966,6 +1972,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/vault_resources/excalidraw/Excalidraw_playground</loc>
     <lastmod>2024-05-24T04:52:03.937Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/vault_resources/templates/HTG-Article-Template</loc>
+    <lastmod>2024-12-18T05:04:17.374Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/vault_resources/templates/expense_table_template</loc>
     <lastmod>2024-05-18T07:31:36.000Z</lastmod>
