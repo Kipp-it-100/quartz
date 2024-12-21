@@ -114,7 +114,7 @@ icon: MiWhiteQuestionMark
 - [[Real-Time Operating System]]
 - [[Real-time Transfer Protocol (RTP)]]
 - **reddit threads**
-	- [[Untitled]]
+	- [[reply-to-macos-poster-tentou-mushii]]
 - [[Redis]]
 - [[Reduced instruction set computer]]
 - [[Research Unix]]
@@ -142,7 +142,6 @@ icon: MiWhiteQuestionMark
 - [[tvOS]]
 - [[Universal Serial Bus]]
 - [[Unix-like operating system]]
-- [[Untitled]]
 - [[Visual Studio vs VS Code]]
 - [[Vladimir Lenin]]
 - [[Voice over Internet Protocol]]
