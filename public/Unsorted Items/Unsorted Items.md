@@ -3,7 +3,6 @@ icon: MiWhiteQuestionMark
 ---
 # [[Unsorted Items]]
 %% Begin Waypoint %%
-- [[2 U]]
 - [[Aaron Swartz]]
 - [[Actuator]]
 - [[Ada Lovelace]]
