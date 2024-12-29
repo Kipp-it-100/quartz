@@ -18,7 +18,7 @@ aliases:
 - ### [[People]]
 - ### [[Historical]]
 - ### [[Tutorials]]
-- ### [[Unsorted Items]]
+- ### [[Other]]
 
 ## Kipp's Personal Links
 - [Link Tree](https://linktr.ee/Kipp_it_100)

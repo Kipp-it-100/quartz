@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [[Blaster Attack]]
 - [[EternalBlue]]
+- [[Reverse access techniques]]
 - [[Reverse Engineering]]
 - [[Social Engineering]]
 - [[Solar Sunrise]]
