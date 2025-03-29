@@ -89,8 +89,6 @@ icon: MiHappyMac
 - [[Infrastructure as a service]]
 - [[instruction set architecture]]
 - [[Internet of Things]]
-- [[Internet Problems? Here's How to Tell if It's Your ISP's Fault MD]]
-- [[Internet Problems? Here's How to Tell if It's Your ISP's Fault]]
 - [[Internet Protocol Address]]
 - [[Internet Protocol Suite]]
 - [[Internet Protocol]]
