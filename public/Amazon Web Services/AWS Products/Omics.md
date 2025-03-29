@@ -1,5 +1,0 @@
----
-icon: AiOmics
----
-# Overview
-
