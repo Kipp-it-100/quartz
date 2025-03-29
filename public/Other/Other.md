@@ -22,7 +22,6 @@ icon: MiWhiteQuestionMark
 - [[Genomics]]
 - [[Hot-wiring]]
 - [[How to delete Google Drive content cache to free disk space]]
-- [[Httpsyoutu.bepoDIT2ruQ9M?list=TLPQMjAxMjIwMjShpZ9BTuY68Q]]
 - [[Macarena]]
 - [[Paradigm]]
 - [[Payment Card Industry]]

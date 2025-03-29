@@ -348,7 +348,7 @@
     <lastmod>2024-05-17T17:37:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Elemental-MediaConnect</loc>
-    <lastmod>2024-05-17T17:37:24.000Z</lastmod>
+    <lastmod>2024-12-23T18:11:30.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Amazon-Web-Services/AWS-Products/Elemental-MediaConvert</loc>
     <lastmod>2024-05-17T17:37:24.000Z</lastmod>
@@ -1010,6 +1010,18 @@
     <loc>https://quartz.jzhao.xyz/Historical/Art-Movements/Romanticism</loc>
     <lastmod>2024-04-21T05:37:32.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Historical/Chernobyl-Disaster</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Historical/February-Revolution</loc>
+    <lastmod>2024-05-25T05:55:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Historical/Historical</loc>
+    <lastmod>2024-12-29T23:44:20.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Historical/October-Revolution</loc>
+    <lastmod>2024-05-25T05:55:58.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Historical/Tech-History</loc>
     <lastmod>2024-06-05T00:05:46.000Z</lastmod>
   </url><url>
@@ -1031,8 +1043,23 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Apache-Cassandra</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Apache-Flink</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Apache-Hadoop</loc>
     <lastmod>2024-05-22T00:23:30.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Apache-Kafka</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Apache-ORC</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Apache-Parquet</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Apache-Software-Foundation</loc>
+    <lastmod>2024-06-05T04:42:26.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Apache-Web-Server/Apache-Web-Server</loc>
     <lastmod>2024-06-05T04:28:38.000Z</lastmod>
@@ -1043,11 +1070,20 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Apple-II</loc>
     <lastmod>2024-05-25T05:45:16.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Apple-Lisa</loc>
+    <lastmod>2024-12-29T23:28:40.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Apple,-Inc.</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Application-Programming-Interface</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Artificial-Intelligence</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Assembly-language</loc>
+    <lastmod>2024-12-29T12:37:04.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Automated-Reasoning</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
@@ -1064,16 +1100,40 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Blockchain</loc>
     <lastmod>2024-06-02T03:56:12.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Blue-green-deployment</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Bus-(computing)</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/C-programming-language</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Cache-(computing)</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Cascading-Syle-Sheets</loc>
+    <lastmod>2024-06-09T02:53:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Central-Processing-Unit</loc>
+    <lastmod>2024-06-05T00:05:48.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Certificate-authority</loc>
+    <lastmod>2024-06-09T03:07:30.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Classless-Inter-Domain-Routing</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Compiler</loc>
+    <lastmod>2024-12-29T12:37:04.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Complex-instruction-set-computer</loc>
+    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Computer-Architecture</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Computer-memory</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Computer-science</loc>
@@ -1091,8 +1151,14 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Cryptography</loc>
     <lastmod>2024-06-02T03:56:34.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Cryptoworm</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/DOS</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Data-Warehouse</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Deep-Learning</loc>
     <lastmod>2024-06-02T03:56:44.000Z</lastmod>
@@ -1109,6 +1175,9 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Distributed-Denial-of-Service-Attack</loc>
     <lastmod>2024-06-02T03:57:28.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/ECDSA</loc>
+    <lastmod>2024-06-09T03:09:12.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Encryption</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
@@ -1124,11 +1193,38 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/File-Transfer-Protocol</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Fire-OS</loc>
+    <lastmod>2024-05-22T23:52:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Floating-point-arithmetic</loc>
+    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Floppy-Disk</loc>
+    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/FreeBSD</loc>
+    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/GNU-General-Public-License</loc>
+    <lastmod>2024-05-26T02:29:32.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/GNU</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Generative-AI</loc>
     <lastmod>2024-06-02T03:59:12.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Git</loc>
+    <lastmod>2024-06-09T04:34:08.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/GraphQL</loc>
+    <lastmod>2024-06-01T19:06:22.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Graphics-Processing-Unit</loc>
+    <lastmod>2024-05-22T23:52:16.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/HTTP-APIs</loc>
+    <lastmod>2024-05-28T15:11:52.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/HTTP-Live-Streaming</loc>
     <lastmod>2024-06-05T04:37:54.000Z</lastmod>
@@ -1140,10 +1236,13 @@
     <lastmod>2024-06-04T07:05:16.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Hacking/Hacking</loc>
-    <lastmod>2024-06-04T07:05:28.000Z</lastmod>
+    <lastmod>2024-12-29T23:50:06.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Hacking/Reverse-Engineering</loc>
     <lastmod>2024-04-16T04:36:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Hacking/Reverse-access-techniques</loc>
+    <lastmod>2024-06-02T03:05:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Hacking/Social-Engineering</loc>
     <lastmod>2024-04-24T01:11:32.000Z</lastmod>
@@ -1175,14 +1274,29 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Hypervisor</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/IBM-Db2</loc>
+    <lastmod>2024-05-26T02:42:18.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/IBM-Personal-Computer</loc>
+    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/IBM</loc>
+    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/IEEE</loc>
+    <lastmod>2024-06-09T02:58:08.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/IPv4</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/IPv6</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Industry-Standard-Architecture</loc>
+    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Information-Technology</loc>
-    <lastmod>2024-06-13T05:12:20.000Z</lastmod>
+    <lastmod>2025-01-06T19:21:22.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Infrastructure-as-a-service</loc>
     <lastmod>2024-06-02T04:01:04.000Z</lastmod>
@@ -1202,6 +1316,9 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Internet-Protocol</loc>
     <lastmod>2024-06-02T04:01:24.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Internet-of-Things</loc>
+    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Internet</loc>
     <lastmod>2024-05-15T03:54:46.000Z</lastmod>
   </url><url>
@@ -1211,20 +1328,47 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Kernel</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Kubernetes</loc>
+    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Lightweight-Directory-Access-Protocol</loc>
     <lastmod>2024-06-02T04:02:28.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Local-Area-Network</loc>
     <lastmod>2024-06-02T04:02:34.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Local-bus</loc>
+    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/MIDI-time-synced-GIFs-and-WEBP</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/MS-DOS</loc>
+    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Machine-Learning</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Machine-code</loc>
+    <lastmod>2024-06-09T04:43:50.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Macintosh-System-Software</loc>
+    <lastmod>2024-05-07T01:28:08.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Macintosh-operating-system</loc>
+    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Macintosh</loc>
     <lastmod>2024-05-07T01:28:18.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Malware</loc>
+    <lastmod>2024-06-04T07:08:18.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/MariaDB</loc>
+    <lastmod>2024-05-26T02:29:10.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Markdown</loc>
+    <lastmod>2024-06-02T04:03:58.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Markup-Language</loc>
     <lastmod>2024-06-02T04:03:08.000Z</lastmod>
@@ -1247,8 +1391,17 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Metropolitan-Area-Network</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Microarchitecture</loc>
+    <lastmod>2024-05-07T01:42:40.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Microsoft-Hyper-V</loc>
+    <lastmod>2024-05-07T02:25:36.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Midjourney</loc>
     <lastmod>2024-06-05T04:47:20.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/MongoDB</loc>
+    <lastmod>2024-05-24T00:29:22.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Multiple-Hierarchical</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
@@ -1256,11 +1409,17 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Musical-Instrument-Digital-Interface</loc>
     <lastmod>2024-06-02T04:05:02.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/MySQL</loc>
+    <lastmod>2024-05-26T02:28:12.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Natural-Language-Processing</loc>
     <lastmod>2024-06-02T04:04:34.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Natural-Language-Understanding</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/NeXTSTEP</loc>
+    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Netcat</loc>
     <lastmod>2024-06-02T02:48:48.000Z</lastmod>
@@ -1274,14 +1433,38 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Network-Time-Protocol</loc>
     <lastmod>2024-06-01T18:50:18.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Neural-Network</loc>
+    <lastmod>2024-05-06T00:05:12.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/New-Technology-File-System</loc>
+    <lastmod>2024-05-07T04:16:40.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Nixie-tube</loc>
+    <lastmod>2024-06-05T01:15:56.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Node.js</loc>
     <lastmod>2024-05-22T23:53:16.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Object-code</loc>
+    <lastmod>2024-06-09T04:39:32.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Object-oriented-Progframming</loc>
+    <lastmod>2024-12-29T23:34:34.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Open-Architecture</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Open-Systems-Interconnection-Model</loc>
     <lastmod>2024-06-17T11:15:32.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Open-source</loc>
+    <lastmod>2024-06-05T04:29:52.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/OpenTelemetry</loc>
+    <lastmod>2024-06-09T03:53:50.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Operating-System</loc>
+    <lastmod>2024-06-09T04:32:32.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Operating-Systems/Android</loc>
     <lastmod>2024-05-22T23:48:36.000Z</lastmod>
@@ -1316,14 +1499,35 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Operating-Systems/macOS/macOS</loc>
     <lastmod>2024-05-24T04:14:52.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Oracle-Corporation</loc>
+    <lastmod>2024-05-26T02:40:56.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/PHP</loc>
     <lastmod>2024-05-23T00:06:38.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Payment-Card-Industry-Data-Security-Standard</loc>
     <lastmod>2024-06-02T04:17:48.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Peripheral-Component-Interconnect</loc>
+    <lastmod>2024-05-07T03:20:10.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Personal-Computer</loc>
+    <lastmod>2024-05-07T04:36:48.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Platform-as-a-service</loc>
     <lastmod>2024-06-02T04:17:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/PostgreSQL</loc>
+    <lastmod>2024-05-22T03:09:12.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Power-adaptor-voltage-reasoning</loc>
+    <lastmod>2025-01-06T19:21:08.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/PowerPC</loc>
+    <lastmod>2024-05-07T01:26:10.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Processor-Architecture</loc>
+    <lastmod>2024-05-07T01:23:32.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Python-Programming-Language</loc>
     <lastmod>2024-06-02T04:17:26.000Z</lastmod>
@@ -1337,8 +1541,35 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/RSA-(cryptosystem)</loc>
     <lastmod>2024-06-09T03:08:40.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/RSS</loc>
+    <lastmod>2024-06-10T02:20:12.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/RTP-Control-Protocol-(RTCP)</loc>
+    <lastmod>2024-06-05T04:41:02.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/RabbitMQ</loc>
+    <lastmod>2024-06-01T19:08:18.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Random-Access-Memory</loc>
     <lastmod>2024-06-02T04:06:54.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Ransomware</loc>
+    <lastmod>2024-06-04T07:07:48.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Real-Time-Messaging-Protocol</loc>
+    <lastmod>2024-05-09T02:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Real-Time-Operating-System</loc>
+    <lastmod>2024-05-09T01:28:08.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Real-time-Transfer-Protocol-(RTP)</loc>
+    <lastmod>2024-06-05T04:40:38.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Redis</loc>
+    <lastmod>2024-05-05T22:46:04.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Reduced-instruction-set-computer</loc>
+    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Reinforcement-Learning</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
@@ -1346,14 +1577,23 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Remote-Desktop-Protocol</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Research-Unix</loc>
+    <lastmod>2024-05-07T01:46:40.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Ruby-(programming-language)</loc>
     <lastmod>2024-06-02T04:08:04.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Ruby-on-Rails</loc>
     <lastmod>2024-06-02T04:08:22.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Runtime-System</loc>
+    <lastmod>2024-06-09T04:31:32.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Rust-Programming-Language</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/SQL-Server</loc>
+    <lastmod>2024-05-26T02:31:12.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/SSH-File-Transfer-Protocol</loc>
     <lastmod>2024-06-02T04:16:08.000Z</lastmod>
@@ -1367,11 +1607,17 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Server-Message-Block</loc>
     <lastmod>2024-06-02T04:16:40.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Session-Initiation-Protocol-(SIP)</loc>
+    <lastmod>2024-06-05T04:40:14.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Simple-Mail-Transfer-Protocol</loc>
     <lastmod>2024-06-02T04:16:26.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Software-as-a-Service</loc>
     <lastmod>2024-06-02T04:17:38.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Source-code</loc>
+    <lastmod>2024-06-09T04:34:20.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Speech-Synthesis-Markup-Language</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
@@ -1379,14 +1625,29 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Storm-Worm</loc>
     <lastmod>2024-06-02T04:10:32.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Stream-Control-Transmission-Protocol</loc>
+    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Structured-Query-Language</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/StuxNet</loc>
     <lastmod>2024-06-02T04:08:40.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Sun-Microsystems</loc>
+    <lastmod>2024-05-07T02:19:30.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/SunOS</loc>
+    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Supercomputer</loc>
+    <lastmod>2024-06-09T04:33:52.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Synchronous-vs-asynchronous-replication</loc>
     <lastmod>2024-05-27T02:04:58.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Tableau-Software</loc>
+    <lastmod>2024-05-22T03:12:10.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Time-to-live</loc>
     <lastmod>2024-06-02T04:11:24.000Z</lastmod>
@@ -1409,8 +1670,23 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Wiki</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Windows-8</loc>
+    <lastmod>2024-05-07T02:31:54.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/Windows-File-System</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Windows-NT</loc>
+    <lastmod>2024-05-07T02:25:06.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Windows-Server</loc>
+    <lastmod>2024-05-09T02:05:40.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/Windows-XP</loc>
+    <lastmod>2024-05-07T02:22:58.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/X.509</loc>
+    <lastmod>2024-06-09T03:10:48.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/YAML</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
@@ -1421,11 +1697,38 @@
     <loc>https://quartz.jzhao.xyz/Information-Technology/Zettelkasten</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/cryptoprocessor</loc>
+    <lastmod>2024-05-22T23:50:06.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/dynamic-random-access-memory-(DRAM)</loc>
     <lastmod>2024-05-07T03:53:22.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/ed25519</loc>
+    <lastmod>2024-06-09T03:09:26.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Information-Technology/iOS</loc>
     <lastmod>2024-05-07T02:28:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/iPadOS</loc>
+    <lastmod>2024-12-29T23:31:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/instruction-set-architecture</loc>
+    <lastmod>2024-06-09T04:44:34.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/microprocessor</loc>
+    <lastmod>2024-05-22T23:53:04.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/synchronous-vs-asynchronous-approaches-to-input-output</loc>
+    <lastmod>2024-05-23T00:07:18.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/tvOS</loc>
+    <lastmod>2024-05-07T02:29:26.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/x-cell-and-x11-forwarding</loc>
+    <lastmod>2024-12-20T06:10:06.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Information-Technology/x86</loc>
+    <lastmod>2024-05-09T04:09:56.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Music/Music-Ideas</loc>
     <lastmod>2024-08-28T08:45:34.000Z</lastmod>
@@ -1439,26 +1742,218 @@
     <loc>https://quartz.jzhao.xyz/Music/The-Circle-of-Fifths</loc>
     <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Actuator</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Adobe-Premiere</loc>
+    <lastmod>2024-07-13T13:56:40.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Aplastic-Anemia</loc>
+    <lastmod>2024-12-29T23:28:20.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Bosnia-Herzegovina</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Catch-22-(film)</loc>
+    <lastmod>2024-12-29T13:08:32.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Catch-22-(novel)</loc>
+    <lastmod>2024-12-29T13:08:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Cyrillic-Script</loc>
+    <lastmod>2024-12-29T23:30:04.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Dragon-boat</loc>
+    <lastmod>2024-12-29T13:04:30.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/EBS-backed-cloud-DAW-Library</loc>
+    <lastmod>2024-07-25T17:31:34.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Eastern-Bloc</loc>
+    <lastmod>2024-05-25T05:55:26.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Eurasia</loc>
+    <lastmod>2024-05-22T23:51:54.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Fun-Shit-To-do-with-SIP-disabled</loc>
+    <lastmod>2024-12-20T05:37:08.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Genomics</loc>
+    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Hot-wiring</loc>
+    <lastmod>2024-06-04T07:02:34.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/How-to-delete-Google-Drive-content-cache-to-free-disk-space</loc>
+    <lastmod>2024-06-13T23:22:20.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Httpsyoutu.bepoDIT2ruQ9Mlist=TLPQMjAxMjIwMjShpZ9BTuY68Q</loc>
+    <lastmod>2024-12-20T07:04:24.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Macarena</loc>
+    <lastmod>2024-12-29T13:02:50.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Other</loc>
+    <lastmod>2025-01-06T19:21:22.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Paradigm</loc>
+    <lastmod>2024-05-06T02:26:10.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Payment-Card-Industry</loc>
+    <lastmod>2024-12-29T23:32:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Pelican-Brief-(novel)</loc>
+    <lastmod>2024-12-29T13:10:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Sexus-(novel)</loc>
+    <lastmod>2024-12-29T23:27:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Soviet-Union</loc>
+    <lastmod>2024-05-03T03:19:56.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/The-Communist-Manifesto</loc>
+    <lastmod>2024-05-03T03:32:22.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Tmux-usage</loc>
+    <lastmod>2024-12-29T12:37:04.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Tropic-of-Cancer-(novel)</loc>
+    <lastmod>2024-12-29T23:25:22.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Universal-Serial-Bus</loc>
+    <lastmod>2024-05-07T04:33:12.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Unix-like-operating-system</loc>
+    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Unsorted-Items</loc>
+    <lastmod>2024-12-29T12:36:50.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Visual-Studio-vs-VS-Code</loc>
+    <lastmod>2024-12-29T23:46:40.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Voice-over-Internet-Protocol</loc>
+    <lastmod>2024-05-05T20:10:20.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Wainwright</loc>
+    <lastmod>2024-12-29T12:59:26.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/Warsaw-Pact</loc>
+    <lastmod>2024-05-03T03:16:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/best-vsts</loc>
+    <lastmod>2024-06-11T04:32:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/calendar</loc>
+    <lastmod>2024-06-11T11:48:20.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/empircism</loc>
+    <lastmod>2024-12-29T13:12:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/exam-1_1-questions</loc>
+    <lastmod>2024-05-27T02:07:12.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/reddit-threads/reply-to-macos-poster-tentou-mushii</loc>
+    <lastmod>2024-12-22T22:02:40.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Other/reservation-dogs</loc>
+    <lastmod>2024-12-29T13:10:56.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Aaron-Swartz</loc>
+    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Ada-Lovelace</loc>
+    <lastmod>2024-06-05T00:05:48.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Adeline-Virginia-Stephen</loc>
+    <lastmod>2024-12-29T12:54:32.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Alan-Turing</loc>
+    <lastmod>2024-06-05T00:05:48.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Arthur-C-Clark</loc>
+    <lastmod>2024-12-29T13:03:52.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Crispus-Attucks</loc>
+    <lastmod>2024-12-29T23:29:56.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Diego-Ferrara</loc>
+    <lastmod>2024-06-08T05:01:30.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/People/Fridtjof-Nansen</loc>
     <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Friedrich-Engels</loc>
+    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Gavrilo-Princip</loc>
+    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/People/H.-G.-Wells</loc>
     <lastmod>2024-06-05T00:05:46.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/People/John-Grisham</loc>
+    <lastmod>2024-12-29T23:31:50.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/People/John-Keats</loc>
     <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/John-Williams-(author)</loc>
+    <lastmod>2024-12-29T23:32:10.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Joseph-Heller</loc>
+    <lastmod>2024-12-29T13:08:52.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Joseph-Stalin</loc>
+    <lastmod>2024-05-25T05:55:44.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Karl-Marx</loc>
+    <lastmod>2024-05-25T05:55:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Leon-Trotsky</loc>
+    <lastmod>2024-05-25T05:55:54.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Linus-Torvalds</loc>
+    <lastmod>2024-06-09T02:57:56.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Marcus-Hutchins</loc>
+    <lastmod>2024-12-29T12:37:04.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Marie-Curie</loc>
+    <lastmod>2024-05-22T23:53:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Mensheviks</loc>
+    <lastmod>2024-05-03T03:38:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/People/Nansen-and-Peary</loc>
     <lastmod>2024-06-05T00:05:46.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Oscar-Peterson</loc>
+    <lastmod>2024-12-29T12:48:22.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/People/People</loc>
-    <lastmod>2024-06-05T00:49:34.000Z</lastmod>
+    <lastmod>2024-12-29T23:49:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/People/Robert-Edwin-Peary</loc>
     <lastmod>2024-06-05T00:05:46.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Seymour-Cray</loc>
+    <lastmod>2024-12-29T12:37:04.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Steve-Jobs</loc>
+    <lastmod>2024-05-25T05:46:42.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Steve-Wozniak</loc>
+    <lastmod>2024-05-07T02:45:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Tim-Berners-Lee</loc>
+    <lastmod>2024-06-05T04:33:40.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/People/Virgil-(Roman)</loc>
     <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/People/Vladimir-Lenin</loc>
+    <lastmod>2024-05-25T05:56:04.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/SAA-C03-Exam/Content-domains</loc>
     <lastmod>2024-06-09T18:12:04.000Z</lastmod>
@@ -1470,7 +1965,7 @@
     <lastmod>2024-06-08T23:22:10.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-Flashcards</loc>
-    <lastmod>2024-07-19T01:28:56.000Z</lastmod>
+    <lastmod>2024-12-29T02:04:06.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-C03-Exam</loc>
     <lastmod>2024-07-17T02:33:18.000Z</lastmod>
@@ -1490,464 +1985,47 @@
     <loc>https://quartz.jzhao.xyz/Tutorials/Ubuntu-tyle-terminal-coloration-in-MacOS</loc>
     <lastmod>2024-06-05T01:02:38.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/2-U</loc>
-    <lastmod>2024-12-10T02:34:50.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Akashic-Records</loc>
+    <lastmod>2025-03-11T11:54:58.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Aaron-Swartz</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Changes-to-Bios-for-win-11-install-media</loc>
+    <lastmod>2025-01-26T08:05:12.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Actuator</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Helena-Blavatsky</loc>
+    <lastmod>2025-03-11T11:57:28.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Ada-Lovelace</loc>
-    <lastmod>2024-06-05T00:05:48.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Intel-VMX</loc>
+    <lastmod>2025-01-29T20:18:10.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Adobe-Premiere</loc>
-    <lastmod>2024-07-13T13:56:40.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/New-York-City</loc>
+    <lastmod>2025-03-11T12:04:12.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Alan-Turing</loc>
-    <lastmod>2024-06-05T00:05:48.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Paris</loc>
+    <lastmod>2025-03-11T12:04:48.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Apache-Flink</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/PowerToys-Mouse-Highlighter-Demo</loc>
+    <lastmod>2025-01-15T11:08:32.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Apache-Kafka</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Stream-To-Do-Mar-11</loc>
+    <lastmod>2025-03-11T14:59:14.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Apache-ORC</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Stream-To-Dos-3-12</loc>
+    <lastmod>2025-03-12T09:42:42.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Apache-Parquet</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Theosophy</loc>
+    <lastmod>2025-03-11T11:56:58.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Apache-Software-Foundation</loc>
-    <lastmod>2024-06-05T04:42:26.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Untitled</loc>
+    <lastmod>2025-01-14T20:43:28.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Aplastic-Anemia</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Apple-Lisa</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Apple,-Inc.</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Assembly-language</loc>
-    <lastmod>2024-06-09T04:38:34.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Blue-green-deployment</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Bosnia-Herzegovina</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Bus-(computing)</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Cascading-Syle-Sheets</loc>
-    <lastmod>2024-06-09T02:53:36.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Central-Processing-Unit</loc>
-    <lastmod>2024-06-05T00:05:48.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Certificate-authority</loc>
-    <lastmod>2024-06-09T03:07:30.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Chernobyl-Disaster</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Compiler</loc>
-    <lastmod>2024-06-09T04:42:28.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Computer-Architecture</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Computer-memory</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Crispus-Attucks</loc>
-    <lastmod>2024-06-08T23:31:10.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Cryptoworm</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Cyrillic-Script</loc>
-    <lastmod>2024-05-22T23:51:36.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Data-Warehouse</loc>
-    <lastmod>2024-06-05T00:05:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Diego-Ferrara</loc>
-    <lastmod>2024-06-08T05:01:30.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/EBS-backed-cloud-DAW-Library</loc>
-    <lastmod>2024-07-25T17:31:34.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/ECDSA</loc>
-    <lastmod>2024-06-09T03:09:12.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Eastern-Bloc</loc>
-    <lastmod>2024-05-25T05:55:26.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Eurasia</loc>
-    <lastmod>2024-05-22T23:51:54.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/February-Revolution</loc>
-    <lastmod>2024-05-25T05:55:28.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Fire-OS</loc>
-    <lastmod>2024-05-22T23:52:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Floating-point-arithmetic</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Floppy-Disk</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/FreeBSD</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Friedrich-Engels</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Fun-Shit-To-do-with-SIP-disabled</loc>
-    <lastmod>2024-12-20T05:37:09.177Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/GNU-General-Public-License</loc>
-    <lastmod>2024-05-26T02:29:32.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Gavrilo-Princip</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Genomics</loc>
-    <lastmod>2024-05-17T13:07:42.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Git</loc>
-    <lastmod>2024-06-09T04:34:08.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/GraphQL</loc>
-    <lastmod>2024-06-01T19:06:22.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Graphics-Processing-Unit</loc>
-    <lastmod>2024-05-22T23:52:16.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/HTTP-APIs</loc>
-    <lastmod>2024-05-28T15:11:52.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Hot-wiring</loc>
-    <lastmod>2024-06-04T07:02:34.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/How-to-delete-Google-Drive-content-cache-to-free-disk-space</loc>
-    <lastmod>2024-06-13T23:22:20.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Httpsyoutu.bepoDIT2ruQ9Mlist=TLPQMjAxMjIwMjShpZ9BTuY68Q</loc>
-    <lastmod>2024-12-20T07:04:25.983Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/IBM-Db2</loc>
-    <lastmod>2024-05-26T02:42:18.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/IBM-Personal-Computer</loc>
-    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/IBM</loc>
-    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/IEEE</loc>
-    <lastmod>2024-06-09T02:58:08.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Industry-Standard-Architecture</loc>
-    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Internet-of-Things</loc>
-    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/John-Williams-(author)</loc>
-    <lastmod>2024-05-22T23:52:36.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Joseph-Stalin</loc>
-    <lastmod>2024-05-25T05:55:44.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Karl-Marx</loc>
-    <lastmod>2024-05-25T05:55:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Kubernetes</loc>
-    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Leon-Trotsky</loc>
-    <lastmod>2024-05-25T05:55:54.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Linus-Torvalds</loc>
-    <lastmod>2024-06-09T02:57:56.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Local-bus</loc>
-    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/MS-DOS</loc>
-    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Machine-code</loc>
-    <lastmod>2024-06-09T04:43:50.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Macintosh-System-Software</loc>
-    <lastmod>2024-05-07T01:28:08.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Macintosh-operating-system</loc>
-    <lastmod>2024-05-15T03:54:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Malware</loc>
-    <lastmod>2024-06-04T07:08:18.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Marcus-Hutchins</loc>
-    <lastmod>2024-06-04T07:09:30.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/MariaDB</loc>
-    <lastmod>2024-05-26T02:29:10.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Marie-Curie</loc>
-    <lastmod>2024-05-22T23:53:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Markdown</loc>
-    <lastmod>2024-06-02T04:03:58.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/May-24-2024</loc>
-    <lastmod>2024-05-25T05:45:08.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Mensheviks</loc>
-    <lastmod>2024-05-03T03:38:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Microarchitecture</loc>
-    <lastmod>2024-05-07T01:42:40.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Microsoft-Hyper-V</loc>
-    <lastmod>2024-05-07T02:25:36.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/MongoDB</loc>
-    <lastmod>2024-05-24T00:29:22.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/MySQL</loc>
-    <lastmod>2024-05-26T02:28:12.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/NeXTSTEP</loc>
-    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Neural-Network</loc>
-    <lastmod>2024-05-06T00:05:12.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/New-Technology-File-System</loc>
-    <lastmod>2024-05-07T04:16:40.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Nixie-tube</loc>
-    <lastmod>2024-06-05T01:15:56.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Object-code</loc>
-    <lastmod>2024-06-09T04:39:32.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/October-Revolution</loc>
-    <lastmod>2024-05-25T05:55:58.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Open-source</loc>
-    <lastmod>2024-06-05T04:29:52.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/OpenTelemetry</loc>
-    <lastmod>2024-06-09T03:53:50.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Operating-System</loc>
-    <lastmod>2024-06-09T04:32:32.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Oracle-Corporation</loc>
-    <lastmod>2024-05-26T02:40:56.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/PCI</loc>
-    <lastmod>2024-05-07T02:37:50.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Paradigm</loc>
-    <lastmod>2024-05-06T02:26:10.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Peripheral-Component-Interconnect</loc>
-    <lastmod>2024-05-07T03:20:10.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Personal-Computer</loc>
-    <lastmod>2024-05-07T04:36:48.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/PostgreSQL</loc>
-    <lastmod>2024-05-22T03:09:12.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Power-adaptor-voltage-reasoning</loc>
-    <lastmod>2024-04-11T18:56:58.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/PowerPC</loc>
-    <lastmod>2024-05-07T01:26:10.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Processor-Architecture</loc>
-    <lastmod>2024-05-07T01:23:32.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/RSS</loc>
-    <lastmod>2024-06-10T02:20:12.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/RTP-Control-Protocol-(RTCP)</loc>
-    <lastmod>2024-06-05T04:41:02.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/RabbitMQ</loc>
-    <lastmod>2024-06-01T19:08:18.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Ransomware</loc>
-    <lastmod>2024-06-04T07:07:48.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Real-Time-Messaging-Protocol</loc>
-    <lastmod>2024-05-09T02:31:28.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Real-Time-Operating-System</loc>
-    <lastmod>2024-05-09T01:28:08.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Real-time-Transfer-Protocol-(RTP)</loc>
-    <lastmod>2024-06-05T04:40:38.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Redis</loc>
-    <lastmod>2024-05-05T22:46:04.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Reduced-instruction-set-computer</loc>
-    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Research-Unix</loc>
-    <lastmod>2024-05-07T01:46:40.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Reverse-access-techniques</loc>
-    <lastmod>2024-06-02T03:05:24.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Runtime-System</loc>
-    <lastmod>2024-06-09T04:31:32.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/SQL-Server</loc>
-    <lastmod>2024-05-26T02:31:12.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Session-Initiation-Protocol-(SIP)</loc>
-    <lastmod>2024-06-05T04:40:14.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Seymour-Cray</loc>
-    <lastmod>2024-06-09T04:36:22.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Shimmer-Test</loc>
-    <lastmod>2024-12-20T05:42:17.513Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Source-code</loc>
-    <lastmod>2024-06-09T04:34:20.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Soviet-Union</loc>
-    <lastmod>2024-05-03T03:19:56.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Steve-Jobs</loc>
-    <lastmod>2024-05-25T05:46:42.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Steve-Wozniak</loc>
-    <lastmod>2024-05-07T02:45:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Stream-Control-Transmission-Protocol</loc>
-    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Sun-Microsystems</loc>
-    <lastmod>2024-05-07T02:19:30.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/SunOS</loc>
-    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Supercomputer</loc>
-    <lastmod>2024-06-09T04:33:52.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Tableau-Software</loc>
-    <lastmod>2024-05-22T03:12:10.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/The-Communist-Manifesto</loc>
-    <lastmod>2024-05-03T03:32:22.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Tim-Berners-Lee</loc>
-    <lastmod>2024-06-05T04:33:40.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Tmux-usage</loc>
-    <lastmod>2024-05-24T22:45:40.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Universal-Serial-Bus</loc>
-    <lastmod>2024-05-07T04:33:12.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Unix-like-operating-system</loc>
-    <lastmod>2024-05-17T00:34:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Unsorted-Items</loc>
-    <lastmod>2024-12-20T23:23:51.749Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Visual-Studio-vs-VS-Code</loc>
-    <lastmod>2024-12-14T05:14:20.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Vladimir-Lenin</loc>
-    <lastmod>2024-05-25T05:56:04.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Voice-over-Internet-Protocol</loc>
-    <lastmod>2024-05-05T20:10:20.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Warsaw-Pact</loc>
-    <lastmod>2024-05-03T03:16:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Why-Dont-this-work</loc>
-    <lastmod>2024-12-20T05:42:40.855Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Windows-8</loc>
-    <lastmod>2024-05-07T02:31:54.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Windows-NT</loc>
-    <lastmod>2024-05-07T02:25:06.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Windows-Server</loc>
-    <lastmod>2024-05-09T02:05:40.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/Windows-XP</loc>
-    <lastmod>2024-05-07T02:22:58.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/X.509</loc>
-    <lastmod>2024-06-09T03:10:48.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/best-vsts</loc>
-    <lastmod>2024-06-11T04:32:46.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/calendar</loc>
-    <lastmod>2024-06-11T11:48:20.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/cryptoprocessor</loc>
-    <lastmod>2024-05-22T23:50:06.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/ed25519</loc>
-    <lastmod>2024-06-09T03:09:26.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/exam-1_1-questions</loc>
-    <lastmod>2024-05-27T02:07:12.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/iPadOS</loc>
-    <lastmod>2024-05-07T02:28:20.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/instruction-set-architecture</loc>
-    <lastmod>2024-06-09T04:44:34.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/microprocessor</loc>
-    <lastmod>2024-05-22T23:53:04.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/reddit-threads/reply-to-macos-poster-tentou-mushii</loc>
-    <lastmod>2024-12-20T23:27:07.621Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/synchronous-vs-asynchronous-approaches-to-input-output</loc>
-    <lastmod>2024-05-23T00:07:18.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/tvOS</loc>
-    <lastmod>2024-05-07T02:29:26.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/x-cell-and-x11-forwarding</loc>
-    <lastmod>2024-12-20T06:10:06.282Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Unsorted-Items/x86</loc>
-    <lastmod>2024-05-09T04:09:56.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Unsorted-Items/metropolitan</loc>
+    <lastmod>2025-03-11T12:04:34.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/flashcards/flashcards</loc>
     <lastmod>2024-06-18T02:11:06.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2024-06-08T23:59:46.000Z</lastmod>
+    <lastmod>2024-12-29T11:22:22.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/vault_resources/Vault-Guidelines-and-Protocols</loc>
     <lastmod>2024-06-05T00:05:48.000Z</lastmod>
@@ -1964,23 +2042,11 @@
     <loc>https://quartz.jzhao.xyz/vault_resources/attachments/Drawing-2024-06-17-20.39.39.excalidraw</loc>
     <lastmod>2024-06-18T01:39:40.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/vault_resources/excalidraw/Drawing-2024-05-23-23.27.34.excalidraw</loc>
-    <lastmod>2024-05-24T04:27:34.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/vault_resources/excalidraw/Drawing-2024-05-23-23.28.14.excalidraw</loc>
-    <lastmod>2024-05-24T04:28:32.000Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/vault_resources/excalidraw/Drawing-2024-05-26-21.05.11.excalidraw</loc>
-    <lastmod>2024-05-27T05:38:02.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/vault_resources/excalidraw/Drawing-2024-05-26-21.08.37.excalidraw</loc>
-    <lastmod>2024-05-27T02:08:38.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/vault_resources/excalidraw/Drawing-2024-05-27-12.53.54.excalidraw</loc>
-    <lastmod>2024-05-27T17:53:54.000Z</lastmod>
+    <lastmod>2024-12-29T11:25:54.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/vault_resources/excalidraw/Excalidraw_playground</loc>
-    <lastmod>2024-05-24T04:52:02.000Z</lastmod>
+    <lastmod>2024-12-29T11:29:02.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/vault_resources/templates/HTG-Article-Template</loc>
     <lastmod>2024-12-18T05:32:34.000Z</lastmod>
