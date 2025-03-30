@@ -27,4 +27,4 @@ aliases:
 - [SoundCloud](https://soundcloud.com/kipp-it-100)
 - [Twitch](https://www.twitch.tv/kipp_it_100)
 - [Dev Community](https://dev.to/kipp_it_100)
-- [GitHub](https://github.com/Vars-Ulrich)
+- [GitHub](https://github.com/Kipp-it-100)
